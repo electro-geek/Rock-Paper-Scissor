@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Rock-paper-scissors-with-text-art
 rock paper scissors game with text art, you can play game in terminal
 
@@ -15,3 +16,7 @@ rock paper scissors game with text art, you can play game in terminal
 ![IMG_20220815_081610](https://user-images.githubusercontent.com/97863741/184581375-814a1b74-9aab-4937-bcec-52077947a5fe.jpg)
 ![IMG_20220815_081708](https://user-images.githubusercontent.com/97863741/184581400-d64addda-bbe3-4783-aaf2-752a99dd517f.jpg)
 ![IMG_20220815_081822](https://user-images.githubusercontent.com/97863741/184581410-f650c2f8-17e7-4581-8041-7db0410d6539.jpg)
+=======
+# Rock-Paper-Scissor
+Rock, Paper &amp; Scissor game 🎮🕹
+>>>>>>> 6e36d4b97c743f3245e8ccc978453a620f2870e5
